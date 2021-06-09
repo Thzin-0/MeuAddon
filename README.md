@@ -1,0 +1,2 @@
+# MeuAddon
+Não mexer
